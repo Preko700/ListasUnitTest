@@ -83,4 +83,4 @@ Para ejecutar las pruebas y verificar la cobertura:
 2. Para ver la cobertura: Test > Analyze Code Coverage for All Tests
 
 ## Licencia
-Este proyecto es software educativo y puede ser utilizado libremente con fines académicos.
+Este proyecto bajo la licencia Apache-2.0
